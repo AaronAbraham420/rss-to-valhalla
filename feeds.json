@@ -5,6 +5,9 @@
   },
   {
     "name": "Bundles",
-    "url": "https://isthereanydeal.com/feeds/IN/INR/bundles.rss"
+    "url": "https://isthereanydeal.com/feeds/IN/INR/bundles.rss",
+    "seen": [
+      "https://isthereanydeal.com/bundles/7052/"
+    ]
   }
 ]
