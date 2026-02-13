@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Deals",
+    "url": "https://isthereanydeal.com/feeds/IN/INR/deals.rss"
+  },
+  {
+    "name": "Bundles",
+    "url": "https://isthereanydeal.com/feeds/IN/INR/bundles.rss",
+  }
+]
