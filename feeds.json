@@ -5,7 +5,7 @@
   },
   {
     "name": "Bundles",
-    "url": "https://isthereanydeal.com/feeds/IN/INR/bundles.rss",
+    "url": "https://morss.it/:clip:firstlink:order=newest/https://isthereanydeal.com/feeds/IN/INR/bundles.rss",
     "seen": [
       "https://isthereanydeal.com/bundles/7052/",
       "https://isthereanydeal.com/bundles/13529/",
