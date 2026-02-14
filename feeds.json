@@ -1,7 +1,10 @@
 [
   {
     "name": "Deals",
-    "url": "https://morss.it/:clip/https://isthereanydeal.com/feeds/IN/INR/deals.rss"
+    "url": "https://morss.it/:clip/https://isthereanydeal.com/feeds/IN/INR/deals.rss",
+    "seen": [
+      "worms-rumble-deluxe-edition@1770628347"
+    ]
   },
   {
     "name": "Bundles",
