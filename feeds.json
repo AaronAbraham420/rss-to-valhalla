@@ -1,7 +1,7 @@
 [
   {
     "name": "Deals",
-    "url": "https://isthereanydeal.com/feeds/IN/INR/deals.rss"
+    "url": "https://morss.it/:clip/https://isthereanydeal.com/feeds/IN/INR/deals.rss"
   },
   {
     "name": "Bundles",
